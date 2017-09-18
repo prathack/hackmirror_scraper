@@ -4,3 +4,4 @@ We have the three different options for scraping
   1 -> onhold_attacks
   2 -> special_attacks
   3 -> archive_attacks
+Please run this on terminal / cmd rather than IDLE
